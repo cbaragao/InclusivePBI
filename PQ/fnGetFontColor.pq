@@ -49,7 +49,7 @@ fnType = type function (HEX as text) as text meta
 Documentation.LongDescription = "This function takes a hex code and returns whether the font should be black or white for readability.",
 Documentation.Examples = {
     [Description = "This gets the font color for #666A86.",
-    Code = "fnCheckColorContrast(""#666A86"")",
+    Code = "fnGetFontColor(""#666A86"")",
     Result="White"]
 }]
     in  
