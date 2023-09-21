@@ -1,3 +1,5 @@
+let fnGetHexValue = 
+
 (red as number, green as number, blue as number)=>
 let
     // Build the RGB list
@@ -17,4 +19,14 @@ let
         in
             HexOutput
     in 
-     ConvertToHex(red, green, blue)
+     ConvertToHex(red, green, blue),
+fnType = type function (red as number, green as number, blue as number) as text meta 
+[Documentation.Name = "fnGetHexValue",
+Documentation.LongDescription = "This function converts RGB values to hex codes.",
+Documentation.Examples = {
+    [Description = "This converts 255,255,255 to hex.",
+    Code = "fnGetHexValue(255,255,255)",
+    Result="#FFFFFF"]
+}]
+    in  
+Value.ReplaceType(fnGetHexValue, fnType)
