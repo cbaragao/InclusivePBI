@@ -79,4 +79,5 @@ Microsoft MVP Bernat Agulló Roselló has some great articles on using DAX and T
 :link: [THEME-COMPLIANT CONDITIONAL FORMATTING MEASURES](https://www.esbrina-ba.com/theme-compliant-conditional-formatting-measures/) <br /> <br />
 
 ## Additional Resources
-[Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/)
+:link: [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/) <br /> <br />
+🔗 [Laws of UX](https://lawsofux.com/)
