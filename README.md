@@ -60,6 +60,8 @@ A repo consolidating accessibility resources for Power BI.
 
 ## Accessibility Checklist
 
+🔗 [Microsoft Learn: Report Accessibility Checklist](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-accessibility-creating-reports#report-accessibility-checklist)
+
 ### All Visuals
 
 - [ ] Ensure color contrast between title, axis label, and data label text and the background are at least 4.5:1.
