@@ -12,6 +12,12 @@ A repo consolidating 508 best practices for Power BI and ways to deal with color
 
 * Guideline 1.3 Adaptable: Create content that can be presented in different ways (for example simpler layout) without losing information or structure.<br />
 
+| Number | Title | Guideline |
+| ------ | ----- | --------- |
+| 1.1 | Text Alternatives | Provide text alternatives for any non-text content so that it can be changed into other forms people need, such as large print, braille, speech, symbols or simpler language. |
+| 1.2 | Time-based Media | Provide alternatives for time-based media.|
+| 1.3 | Adaptable | Create content that can be presented in different ways (for example simpler layout) without losing information or structure. |
+
 * Guideline 1.4 Distinguishable: Make it easier for users to see and hear content including separating foreground from background.<br />
 
 </details>
