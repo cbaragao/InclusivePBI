@@ -80,4 +80,5 @@ Microsoft MVP Bernat Agulló Roselló has some great articles on using DAX and T
 
 ## Additional Resources
 :link: [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/) <br />
-🔗 [Laws of UX](https://lawsofux.com/)
+🔗 [Laws of UX](https://lawsofux.com/) <br />
+:link: [Microsoft Learn: Design Power BI reports for accessibility](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-accessibility-creating-reports)    
