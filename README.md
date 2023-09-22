@@ -70,5 +70,13 @@ Kerry Kolosko has a wonderful article on [considerations for people that have ve
 
 I have made a number of [M functions](https://github.com/cbaragao/InclusivePBI/tree/main/PQ) that help deal with colors and consider color blindness.
 
+### DAX
+
+Microsoft MVP Bernat Agulló Roselló has some great articles on using DAX and Tabular Editor to deal with colors:
+
+🔗 [A DYNAMIC COLOR GRADIENT FOR VALUES AND TOTALS](https://www.esbrina-ba.com/conditional-formatting-with-a-dynamic-divergent-color-gradient-for-values-and-totals/)
+:link: [BUILDING A FADING BAR CHART](https://www.esbrina-ba.com/building-a-fading-bar-chart/)
+:link: [THEME-COMPLIANT CONDITIONAL FORMATTING MEASURES](https://www.esbrina-ba.com/theme-compliant-conditional-formatting-measures/)
+
 ## Additional Resources
 [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/)
