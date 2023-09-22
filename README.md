@@ -8,10 +8,10 @@ A repo consolidating 508 best practices for Power BI and ways to deal with color
 
 | Number | Title | Guideline |
 | ------ | ----- | --------- |
-| 1.1 | Text Alternatives | Provide text alternatives for any non-text content so that it can be changed into other forms people need, such as large print, braille, speech, symbols or simpler language. |
-| 1.2 | Time-based Media | Provide alternatives for time-based media.|
-| 1.3 | Adaptable | Create content that can be presented in different ways (for example simpler layout) without losing information or structure. |
-| 1.4 | Distinguishable | Make it easier for users to see and hear content including separating foreground from background. |
+| 1.1 | Text Alternatives | [Provide text alternatives for any non-text content so that it can be changed into other forms people need, such as large print, braille, speech, symbols or simpler language.](https://www.w3.org/TR/UNDERSTANDING-WCAG20/text-equiv.html) |
+| 1.2 | Time-based Media | [Provide alternatives for time-based media.](https://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv.html)|
+| 1.3 | Adaptable | [Create content that can be presented in different ways (for example simpler layout) without losing information or structure.](https://www.w3.org/TR/UNDERSTANDING-WCAG20/content-structure-separation.html) |
+| 1.4 | Distinguishable | [Make it easier for users to see and hear content including separating foreground from background.](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast.html) |
 
 <br />
 
@@ -23,10 +23,10 @@ A repo consolidating 508 best practices for Power BI and ways to deal with color
 
 | Number | Title | Guideline |
 | ------ | ----- | --------- |
-| 2.1 | Keyboard Accessible | Make all functionality available from a keyboard. |
-| 2.2 | Enough Time | Provide users enough time to read and use content. |
-| 2.3 | Seizures | Do not design content in a way that is known to cause seizures. |
-| 2.4 | Navigable | Provide ways to help users navigate, find content, and determine where they are. |
+| 2.1 | Keyboard Accessible | [Make all functionality available from a keyboard.](https://www.w3.org/TR/UNDERSTANDING-WCAG20/keyboard-operation.html) |
+| 2.2 | Enough Time | [Provide users enough time to read and use content.](https://www.w3.org/TR/UNDERSTANDING-WCAG20/time-limits.html) |
+| 2.3 | Seizures | [Do not design content in a way that is known to cause seizures.](https://www.w3.org/TR/UNDERSTANDING-WCAG20/seizure.html) |
+| 2.4 | Navigable | [Provide ways to help users navigate, find content, and determine where they are.](https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms.html) |
 
 <br />
 
@@ -38,9 +38,9 @@ A repo consolidating 508 best practices for Power BI and ways to deal with color
 
 | Number | Title | Guideline |
 | ------ | ----- | --------- |
-| 3.1 | Readable | Make text content readable and understandable. |
-| 3.2 | Predictable | Make Web pages appear and operate in predictable ways. |
-| 3.3 | Input Assistance | Help users avoid and correct mistakes. |
+| 3.1 | Readable | [Make text content readable and understandable.](https://www.w3.org/TR/UNDERSTANDING-WCAG20/meaning.html) |
+| 3.2 | Predictable | [Make Web pages appear and operate in predictable ways.](https://www.w3.org/TR/UNDERSTANDING-WCAG20/consistent-behavior.html) |
+| 3.3 | Input Assistance | [Help users avoid and correct mistakes.](https://www.w3.org/TR/UNDERSTANDING-WCAG20/minimize-error.html) |
 
 <br />
 
@@ -52,7 +52,7 @@ A repo consolidating 508 best practices for Power BI and ways to deal with color
 
 | Number | Title | Guideline |
 | ------ | ----- | --------- |
-| 4.1 | Compatible | Maximize compatibility with current and future user agents, including assistive technologies. |
+| 4.1 | Compatible | [Maximize compatibility with current and future user agents, including assistive technologies.](https://www.w3.org/TR/UNDERSTANDING-WCAG20/ensure-compat.html) |
 
 <br />
 
