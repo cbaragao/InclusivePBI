@@ -25,6 +25,7 @@ A repo consolidating 508 best practices for Power BI and ways to deal with color
 <details>
 <summary> Principle 3: Understandable - Information and the operation of user interface must be understandable. </summary>
 <br />
+  
 * Guideline 3.1 Readable: Make text content readable and understandable. <br />
 * Guideline 3.2 Predictable: Make Web pages appear and operate in predictable ways. <br />
 * Guideline 3.3 Input Assistance: Help users avoid and correct mistakes.
@@ -33,6 +34,7 @@ A repo consolidating 508 best practices for Power BI and ways to deal with color
 <details>
 <summary> Principle 4: Robust - Content must be robust enough that it can be interpreted reliably by a wide variety of user agents, including assistive technologies. </summary> 
 <br />
+  
 * Guideline 4.1 Compatible: Maximize compatibility with current and future user agents, including assistive technologies.
 </details>
 
