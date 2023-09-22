@@ -75,7 +75,7 @@ A repo consolidating accessibility resources for Power BI.
 <details>
 <summary>Slicers</summary>
 - [ ]  If you have a collection of several slicers on your report pages, ensure your design is consistent across pages. Use the same font, colors, and spatial position as much as possible.
-</details>details>
+</details>
 
 <details>
 <summary>Textbox</summary>
