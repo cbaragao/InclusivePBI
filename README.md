@@ -64,6 +64,11 @@ A repo consolidating 508 best practices for Power BI and ways to deal with color
 
 Kerry Kolosko has a wonderful article on [considerations for people that have vestibular conditions.](https://kerrykolosko.com/drop-the-drop-shadows/)
 
+## Code
+
+### Power Query
+
+I have made a number of [M functions](https://github.com/cbaragao/InclusivePBI/tree/main/PQ) that help deal with colors and consider color blindness.
 
 ## Additional Resources
 [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/)
