@@ -12,7 +12,8 @@ A repo consolidating 508 best practices for Power BI and ways to deal with color
 
 * Guideline 1.3 Adaptable: Create content that can be presented in different ways (for example simpler layout) without losing information or structure.<br />
 
-* Guideline 1.4 Distinguishable: Make it easier for users to see and hear content including separating foreground from background.
+* Guideline 1.4 Distinguishable: Make it easier for users to see and hear content including separating foreground from background.<br />
+
 </details>
 
 <details>
@@ -25,7 +26,8 @@ A repo consolidating 508 best practices for Power BI and ways to deal with color
 
 * Guideline 2.3 Seizures: Do not design content in a way that is known to cause seizures.<br />
 
-* Guideline 2.4 Navigable: Provide ways to help users navigate, find content, and determine where they are.
+* Guideline 2.4 Navigable: Provide ways to help users navigate, find content, and determine where they are. <br />
+
 </details>
 
 <details>
@@ -36,14 +38,16 @@ A repo consolidating 508 best practices for Power BI and ways to deal with color
 
 * Guideline 3.2 Predictable: Make Web pages appear and operate in predictable ways. <br />
 
-* Guideline 3.3 Input Assistance: Help users avoid and correct mistakes.
+* Guideline 3.3 Input Assistance: Help users avoid and correct mistakes. <br />
+
 </details>
 
 <details>
 <summary> Principle 4: Robust - Content must be robust enough that it can be interpreted reliably by a wide variety of user agents, including assistive technologies. </summary> 
 <br />
   
-* Guideline 4.1 Compatible: Maximize compatibility with current and future user agents, including assistive technologies.
+* Guideline 4.1 Compatible: Maximize compatibility with current and future user agents, including assistive technologies. <br />
+
 </details>
 
 ##  Specific Considerations 
