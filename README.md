@@ -74,46 +74,54 @@ A repo consolidating accessibility resources for Power BI.
 
 <details>
 <summary>Slicers</summary>
+  
 - [ ]  If you have a collection of several slicers on your report pages, ensure your design is consistent across pages. Use the same font, colors, and spatial position as much as possible.
 </details>
 
 <details>
 <summary>Textbox</summary>
+
 - [ ] Ensure color contrast between font and background are at least 4.5:1.
 - [ ] Make sure to put text contents in the alt text box so screen readers can read them.
 </details>
 
 <details>
 <summary>Visual interactions</summary>
+  
 - [ ] Is key information only accessible through an interaction? If so, rearrange your visuals so they're pre-filtered to make the important conclusion more obvious.
 - [ ] Are you using bookmarks for navigation? Try navigating your report with a keyboard to ensure the experience is acceptable for keyboard-only users.
 </details>
 
 <details>
 <summary>Sort order</summary>
+  
 - [ ] Have you purposefully set the sort order of each visual on the page? The accessible Show Data table shows the data in the sort order you have set on the visual.
 </details>
 
 <details>
 <summary>Tooltips</summary>
+  
 - [ ] Don't use tooltips to convey important information. Users with motor issues and users who don't use a mouse will have difficulties accessing them.
 - [ ] Do add tooltips to charts as ancillary information. It's included in the accessible Show Data table for each visual.
 </details>
 
 <details>
 <summary>Video</summary>
+  
 - [ ] Avoid video that automatically starts when the page is rendered.
 - [ ] Ensure your video has captions, or provide a transcript.
 </details>
 
 <details>
 <summary>Audio</summary>
+  
 - [ ] Avoid audio that automatically starts when the page is rendered.
 - [ ] Provide a transcript for any audio.
 </details>
 
 <details>
 <summary>Shapes</summary>
+  
 - [ ] Make sure any decorative shapes are marked as hidden in tab order, so they aren't announced by a screen reader.
 - [ ] Avoid using too many decorative shapes to the point where they're distracting.
 - [ ] When using shapes to call out data points, use alt text to explain what is being called out.
@@ -121,6 +129,7 @@ A repo consolidating accessibility resources for Power BI.
 
 <details>
 <summary>Images</summary>
+  
 - [ ] When using images to call out data points, use alt text to explain what is being called out.
 - [ ] Make sure any decorative images are marked as hidden in tab order, so they aren't announced by a screen reader.
 - [ ] Avoid using too many decorative images, to the point where they're distracting.
@@ -128,12 +137,14 @@ A repo consolidating accessibility resources for Power BI.
 
 <details>
 <summary>Power BI visuals</summary>
+  
 - [ ] Check the accessible Show Data table for Power BI visuals. If the information shown isn't enough, look for another visual.
 - [ ] If you use the Play Axis custom visual, ensure it doesn't auto play. Make it obvious that the user must press the play/pause button to start/stop the changing values.
 </details>
 
 <details>
 <summary>Across visuals on the page</summary>
+  
 - [ ] Set tab order and turn off tab order (mark the item as hidden) on any decorative items.
 </details>
 
