@@ -15,6 +15,7 @@ A repo consolidating 508 best practices for Power BI and ways to deal with color
 <details>
 <summary> Principle 2: Operable - User interface components and navigation must be operable.</summary> 
 <br />
+  
 * Guideline 2.1 Keyboard Accessible: Make all functionality available from a keyboard.<br />
 * Guideline 2.2 Enough Time: Provide users enough time to read and use content.<br />
 * Guideline 2.3 Seizures: Do not design content in a way that is known to cause seizures.<br />
