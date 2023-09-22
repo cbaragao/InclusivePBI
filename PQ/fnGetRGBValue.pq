@@ -1,3 +1,6 @@
+let 
+    fnGetRGBValue = 
+
 // Calculate RGB based on hex value
 (HEX as text)=>
 
@@ -38,4 +41,16 @@ let
 
     in
 
-RGBValues
+RGBValues,
+    
+fnType = type function (HEX as text) as text meta
+[Documentation.Name = "fnGetRGBValue",
+Documentation.LongDescription = "This is a function that converts a hex code to RGB values.",
+Documentation.Examples = {
+    [Description = "This converts #FFFFFF to RGB.",
+    Code = "fnGetRGBValue(""#FFFFFF"")",
+    Result="255,255,255"]
+}] 
+
+    in  
+Value.ReplaceType(fnGetRGBValue, fnType)
