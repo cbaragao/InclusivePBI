@@ -62,57 +62,80 @@ A repo consolidating accessibility resources for Power BI.
 
 🔗 [Microsoft Learn: Report Accessibility Checklist](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-accessibility-creating-reports#report-accessibility-checklist)
 
-### All Visuals
+<details>
+<summary>All Visuals</summary>
 
 - [ ] Ensure color contrast between title, axis label, and data label text and the background are at least 4.5:1.
 - [ ] Avoid using color as the only means of conveying information. Use text or icons to supplement or replace the color.
 - [ ] Replace unnecessary jargon or acronyms.
 - [ ] Ensure alt text is added to all non-decorative visuals on the page.
 - [ ] Check that your report page works for users with color vision deficiency.
+</details>
 
-### Slicers
+<details>
+<summary>Slicers</summary>
 - [ ]  If you have a collection of several slicers on your report pages, ensure your design is consistent across pages. Use the same font, colors, and spatial position as much as possible.
+</details>details>
 
-### Textbox
+<details>
+<summary>Textbox</summary>
 - [ ] Ensure color contrast between font and background are at least 4.5:1.
 - [ ] Make sure to put text contents in the alt text box so screen readers can read them.
+</details>
 
-### Visual interactions
+<details>
+<summary>Visual interactions</summary>
 - [ ] Is key information only accessible through an interaction? If so, rearrange your visuals so they're pre-filtered to make the important conclusion more obvious.
 - [ ] Are you using bookmarks for navigation? Try navigating your report with a keyboard to ensure the experience is acceptable for keyboard-only users.
+</details>
 
-### Sort order
+<details>
+<summary>Sort order</summary>
 - [ ] Have you purposefully set the sort order of each visual on the page? The accessible Show Data table shows the data in the sort order you have set on the visual.
+</details>
 
-### Tooltips
+<details>
+<summary>Tooltips</summary>
 - [ ] Don't use tooltips to convey important information. Users with motor issues and users who don't use a mouse will have difficulties accessing them.
 - [ ] Do add tooltips to charts as ancillary information. It's included in the accessible Show Data table for each visual.
+</details>
 
-### Video
+<details>
+<summary>Video</summary>
 - [ ] Avoid video that automatically starts when the page is rendered.
 - [ ] Ensure your video has captions, or provide a transcript.
+</details>
 
-### Audio
+<details>
+<summary>Audio</summary>
 - [ ] Avoid audio that automatically starts when the page is rendered.
 - [ ] Provide a transcript for any audio.
+</details>
 
-### Shapes
+<details>
+<summary>Shapes</summary>
 - [ ] Make sure any decorative shapes are marked as hidden in tab order, so they aren't announced by a screen reader.
 - [ ] Avoid using too many decorative shapes to the point where they're distracting.
 - [ ] When using shapes to call out data points, use alt text to explain what is being called out.
+</details>
 
-### Images
+<details>
+<summary>Images</summary>
 - [ ] When using images to call out data points, use alt text to explain what is being called out.
 - [ ] Make sure any decorative images are marked as hidden in tab order, so they aren't announced by a screen reader.
 - [ ] Avoid using too many decorative images, to the point where they're distracting.
+</details>
 
-### Power BI visuals
+<details>
+<summary>Power BI visuals</summary>
 - [ ] Check the accessible Show Data table for Power BI visuals. If the information shown isn't enough, look for another visual.
 - [ ] If you use the Play Axis custom visual, ensure it doesn't auto play. Make it obvious that the user must press the play/pause button to start/stop the changing values.
+</details>
 
-### Across visuals on the page
+<details>
+<summary>Across visuals on the page</summary>
 - [ ] Set tab order and turn off tab order (mark the item as hidden) on any decorative items.
-
+</details>
 
 ##  Specific Considerations 
 
