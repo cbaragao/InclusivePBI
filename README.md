@@ -5,6 +5,7 @@ A repo consolidating 508 best practices for Power BI and ways to deal with color
 
 <details>
 <summary> Principle 1: Perceivable - Information and user interface components must be presentable to users in ways they can perceive. </summary><br />
+  
 * Guideline 1.1 Text Alternatives: Provide text alternatives for any non-text content so that it can be changed into other forms people need, such as large print, braille, speech, symbols or simpler language.<br />
 
 * Guideline 1.2 Time-based Media: Provide alternatives for time-based media.<br />
