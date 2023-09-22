@@ -1,9 +1,14 @@
 # InclusivePBI
 A repo consolidating 508 best practices for Power BI and ways to deal with color.
 
-## Vestibular Conditions
+
+
+##  Specific Considerations 
+
+### Vestibular Conditions
 
 Kerry Kolosko has a wonderful article on [considerations for people that have vestibular conditions.](https://kerrykolosko.com/drop-the-drop-shadows/)
 
 
 ## Additional Resources
+[Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/)
