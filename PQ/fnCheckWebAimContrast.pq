@@ -69,12 +69,12 @@ let
         = "Check the WebAim API using background and font color hex codes and return the contrast ratio and any test results that failed", 
       Documentation.Examples = {
         [
-          Description = "This checks for for #FFFFFF (black background) and #000000 (white font).", 
+          Description = "This checks for for #FFFFFF (white background) and #000000 (black font).", 
           Code        = "fnCheckWebAimContrast(""#FFFFFF"", ""#000000"")", 
           Result      = "Ratio: 21 to 1#(lf)Test Failures: None"
         ], 
         [
-          Description = "This checks for for #FFFFFF (black background) and #FFFFFF (black font).", 
+          Description = "This checks for for #FFFFFF (white background) and #FFFFFF (white font).", 
           Code = "fnCheckWebAimContrast(""#FFFFFF"", ""#FFFFFF"")", 
           Result = "Ratio: 1 to 1#(lf)"
             & "Test Failures:#(lf)"
