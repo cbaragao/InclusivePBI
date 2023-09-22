@@ -1,5 +1,5 @@
 # InclusivePBI
-A repo consolidating 508 best practices for Power BI and ways to deal with color.
+A repo consolidating accessibility resources for Power BI.
 
 ## WCAG Guidelines
 
