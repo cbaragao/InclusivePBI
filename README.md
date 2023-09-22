@@ -74,10 +74,10 @@ I have made a number of [M functions](https://github.com/cbaragao/InclusivePBI/t
 
 Microsoft MVP Bernat Agulló Roselló has some great articles on using DAX and Tabular Editor to deal with colors:
 
-🔗 [A DYNAMIC COLOR GRADIENT FOR VALUES AND TOTALS](https://www.esbrina-ba.com/conditional-formatting-with-a-dynamic-divergent-color-gradient-for-values-and-totals/) <br /> <br />
-:link: [BUILDING A FADING BAR CHART](https://www.esbrina-ba.com/building-a-fading-bar-chart/) <br /> <br />
-:link: [THEME-COMPLIANT CONDITIONAL FORMATTING MEASURES](https://www.esbrina-ba.com/theme-compliant-conditional-formatting-measures/) <br /> <br />
+🔗 [A DYNAMIC COLOR GRADIENT FOR VALUES AND TOTALS](https://www.esbrina-ba.com/conditional-formatting-with-a-dynamic-divergent-color-gradient-for-values-and-totals/) <br />
+:link: [BUILDING A FADING BAR CHART](https://www.esbrina-ba.com/building-a-fading-bar-chart/) <br />
+:link: [THEME-COMPLIANT CONDITIONAL FORMATTING MEASURES](https://www.esbrina-ba.com/theme-compliant-conditional-formatting-measures/) <br />
 
 ## Additional Resources
-:link: [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/) <br /> <br />
+:link: [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/) <br />
 🔗 [Laws of UX](https://lawsofux.com/)
